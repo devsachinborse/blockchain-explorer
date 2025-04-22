@@ -12,7 +12,10 @@ A fun and educational project that simulates how blockchain and Proof of Work (P
 - ⚡ Server-Sent Events for mining progress
 - 🖥️ Frontend + Backend separation
 
----
+ ---
+![screencapture-localhost-5173-2025-04-22-18_43_25](https://github.com/user-attachments/assets/3a80fa34-7419-4eb7-ad92-0396a8f82af5)
+
+
 
 ## 🧠 Learnings
 
